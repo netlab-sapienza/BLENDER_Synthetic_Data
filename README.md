@@ -3,6 +3,9 @@
 
 The creation of a synthetic dataset to simulate the behaviour of BLENDER is motivated by the fact that public datasets don’t contain usable device fingerprints* linked to a device. To get a better understanding of BLENDER you can visit [this repository](https://github.com/netlab-sapienza/blender).
 
+ ***Device fingerprint**: Refers to a unique ID of a device that has a BLE technology (ie, phones).*
+
+
 The dataset must consider the following characteristics:
 - The station’s distance must be taken into account, to create paths. Closer stations should be more likely to be part of the same path of a device.
 - Inability of a station to produce device fingerprint data.  For example, the station doesn’t detect the device in time and the device goes out of range first.
@@ -13,7 +16,7 @@ This repository contains the code, data and models employed when generating the 
 
 ## Prerequisites
 
-This project was done using a combination of Google Colab and Google Drive (to store the data). Then, if you want to replicate the results it is necessary to follow the next list of things to do:
+This project was done using a combination of Google Colab and Google Drive (to store the data). Then, if you want to replicate the results it is necessary to follow the next steps:
 
 1. Download the whole repository (from GitHub to your PC).
 2. Store (upload) the decompressed file downloaded in the desired (own) Google Drive folder.
