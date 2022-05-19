@@ -1,0 +1,131 @@
+station_id;place_name;address;city;country;type;latitude;longitude;weights
+3001;The Colosseum;Piazza del Colosseo, 1, 00184 Roma RM;Rome;Italy;Building;41.890542;12.492317;3.0
+3004;Altare della patria;Piazza di S. Marco, 4289, 00186 Roma RM;Rome;Italy;Building;41.894576;12.483123;2.0
+3006;Arch of Constantine;Via di San Gregorio, 00186 Roma RM;Rome;Italy;Building;41.889737;12.490887;2.0
+3046;Villa Pamphilj;Via Aurelia Antica, 12, 00164 Roma RM;Rome;Italy;Park;41.888992;12.444942;0.7
+3101;Manzoni Station;Viale Manzoni, 10, 00185 Roma RM;Rome;Italy;Subway station;41.8902811;12.5062056;1.5
+3102;Via di San Gregorio;Via di San Gregorio, 00186 Roma RM;Rome;Italy;Bus Stop;41.8874847;12.4899609;2.0
+3103;Via dei Fori Imperiali;Via dei Fori Imperiali, 00186 Roma RM;Rome;Italy;Bus Stop;41.8937258;12.4863876;2.5
+3104;Via del Corso;Via del Corso, 304, 00187 Roma RM;Rome;Italy;Bus Stop;41.8977298;12.4816203;2.0
+3105;Via della Conciliazione;Via della Conciliazione, 00193 Roma;Rome;Italy;Square;41.9024058;12.4617231;3.0
+3106;Via Piave;Via Piave, 00198 Roma RM;Rome;Italy;Bus Stop;41.9108332;12.4980548;1.0
+3107;Viale Scalo San Lorenzo;Viale Scalo San Lorenzo, 80, 00185 Roma RM;Rome;Italy;Bus Stop;41.8964863;12.5192075;0.9
+3108;San Giovanni Station;Via Giulio Romano, 23, 00196 Roma RM;Rome;Italy;Subway station;41.8852018;12.5093327;2.0
+3109;Re di roma Station;Re di roma, 00183 Roma RM;Rome;Italy;Subway station;41.8821773;12.513553;1.0
+3110;Pigneto Station;Pigneto, 00176 Roma;Rome;Italy;Subway station;41.8885494;12.5277418;2.0
+3111;Ponte lungo Station;Ponte lungo, 00183 Rome RM;Rome;Italy;Subway station;41.8779634;12.519069;0.9
+3112;Furio camillo Station;Furio camillo,00179 Roma;Rome;Italy;Subway station;41.8747215;12.5224101;0.9
+3113;Colli albani Station;Colli albani,00179 Roma;Rome;Italy;Subway station;41.8696787;12.529849;0.9
+3114;Arco di travertino Station;Arco di travertino,00179 Roma;Rome;Italy;Subway station;41.8666474;12.5347364;0.9
+3115;Porta furba Station;Via Gaio Melisso, 26, 00175 Roma RM;Rome;Italy;Subway station;41.8635881;12.5479297;0.8
+3116;Numidio quadrato Station;Numidio quadrato,00175 Roma;Rome;Italy;Subway station;41.8619434;12.5523049;0.8
+3117;Lucio sestio Station;Lucio sestio,00174 Roma;Rome;Italy;Subway station;41.8600025;12.5569811;0.7
+3118;Giulio agricola Station;Giulio agricola,00174 Roma;Rome;Italy;Subway station;41.8568943;12.562437;0.7
+3119;Subaugusta Station;Subaugusta,00175 Rome;Rome;Italy;Subway station;41.8540204;12.5677414;0.6
+3120;Cinecittà Station;Cinecittà,00174 Roma;Rome;Italy;Subway station;41.8495932;12.5741186;1.5
+3121;Anagnina Station;Anagnina,00173 Roma;Rome;Italy;Subway station;41.8425332;12.5861039;1.5
+3122;Alessandrino Station;Alessandrino,00169 Roma;Rome;Italy;Subway station;41.8714192;12.5781032;0.7
+3123;Parco di Centocelle Station;Via Casilina, 895, 00172 Roma RM;Rome;Italy;Subway station;41.8744427;12.5678089;0.6
+3124;Mirti Station;Mirti,00172 Rome;Rome;Italy;Subway station;41.8812265;12.566437;0.7
+3125;Gardenie Station;Gardenie,00172 Roma;Rome;Italy;Subway station;41.8862994;12.5613762;0.7
+3126;Teano Station;Teano,00177 Roma;Rome;Italy;Subway station;41.8896731;12.5509226;0.7
+3127;Lodi Station;Via la Spezia, 121, 00182 Roma RM;Rome;Italy;Subway station;41.8870032;12.5186424;1.5
+3128;Piazza del Risorgimento;Piazza del Risorgimento, 00192 Roma RM;Rome;Italy;Bus Stop;41.9063301;12.4573315;2.5
+3129;Cipro Station;Via Cipro, 00136 Roma RM;Rome;Italy;Subway station;41.9077182;12.4471604;2.5
+3130;Ottaviano Station;Ottaviano,00192 Roma;Rome;Italy;Subway station;41.9091734;12.4575855;2.5
+3002;The Pantheon;Piazza della Rotonda, 00186 Roma RM;Rome;Italy;Building;41.8994966;12.4764863;3.0
+3003;Trevi Fountain;Piazza di Trevi, 00187 Roma RM;Rome;Italy;Building;41.90089955;12.483612399099346;3.0
+3005;Spanish Steps;Piazza della Trinità dei Monti, 00187 Roma RM;Rome;Italy;Building;41.9058072;12.4837775;0.9
+3007;Castel Sant'Angelo;Lungotevere Castello, 50, 00193 Roma RM;Rome;Italy;Building;41.90308;12.4661811;3.0
+3008;Palazzo Doria Pamphilj;Via del Corso, 305, 00186 Roma RM;Rome;Italy;Building;41.8978235;12.4815609;0.7
+3009;Catacombs of Domitilla;Via delle Sette Chiese, 282, 00147 Roma RM;Rome;Italy;Building;41.8600203;12.4948416;0.6
+3010;Circo Massimo;Via del Circo Massimo, 00186 Roma RM;Rome;Italy;Building;41.8864946;12.4831342;1.5
+3011;Pyramid of Caius Cestius;Via Raffaele Persichetti, 00153 Roma RM;Rome;Italy;Building;41.8767016;12.4809406;0.7
+3012;Santa Maria Maggiore;P.za di Santa Maria Maggiore, 00100 Roma RM;Rome;Italy;Church;41.89731195;12.499082821304615;2.0
+3013;St. Peter's Basilica;Piazza San Pietro, 00120 Città del Vaticano, Ciudad del Vaticano;Rome;Italy;Church;41.9022353;12.457357310298008;2.5
+3014;Basilica of St. John Lateran;Piazza di S. Giovanni in Laterano, 4, 00184 Roma RM;Rome;Italy;Church;41.8861067;12.50397;1.5
+3015;Church of San Clemente;Via Labicana, 95, 00184 Roma RM;Rome;Italy;Church;41.889313900000005;12.497465667561437;1.0
+3016;Intrastevere;Vicolo Moroni, 3, 00153 Roma RM;Rome;Italy;Cinema;41.8921527;12.468573;0.5
+3017;Cinema Nuovo Olimpia;Via in Lucina, 16, 00186 Roma RM;Rome;Italy;Cinema;41.9029247;12.4790778;0.5
+3018;Cinema Adriano;Piazza Cavour, 22, 00193 Roma RM;Rome;Italy;Cinema;41.9046933;12.4689791;0.6
+3019;Cinema Europa;Corso d'Italia, 107, 00198 Roma RM;Rome;Italy;Cinema;41.9112909;12.4994424;0.4
+3020;Cinema Quattro Fontane;Via delle Quattro Fontane, 23, 00184 Roma RM;Rome;Italy;Cinema;41.9014076;12.4919881;0.5
+3021;Cinema Nuovo Sacher;Largo Ascianghi, 1, 00153 Roma RM;Rome;Italy;Cinema;41.8844789;12.4724251;0.4
+3022;Multisala Barberini;P.za Barberini, 24/26, 00187 Roma RM;Rome;Italy;Cinema;41.9040182;12.4886197;0.6
+3023;Cinema Nights at Piazza Vittorio;P.za Vittorio Emanuele II, 00185 Roma RM;Rome;Italy;Cinema;41.8951639;12.5049029;1.0
+3024;Jackie O;Via Boncompagni, 11, 00187 Roma RM;Rome;Italy;Dance club;41.90819;12.4928631;0.3
+3025;Raspoutine;Via Maria Cristina, 2, 00196 Roma RM;Rome;Italy;Dance club;41.9105453;12.4734186;0.6
+3026;Profumo Spazio Sensoriale;Via di Villa Lauchli, 1, 00191 Roma RM;Rome;Italy;Dance club;41.950697;12.461125954186414;0.1
+3027;Alcazar Live;Via Cardinale Merry del Val, 14b, 00153 Roma RM;Rome;Italy;Dance club;41.8874182;12.4719451;1.0
+3028;Shari Vari Play House;Via di Torre Argentina, 78, 00186 Roma RM;Rome;Italy;Dance club;41.8971366;12.4763166;1.0
+3029;Art Cafè;Viale del Galoppatoio, 33, 00197 Roma RM;Rome;Italy;Dance club;41.9096365;12.4841416;0.5
+3030;Coho Apartment;Via del Tritone, 118, 00187 Roma RM;Rome;Italy;Dance club;41.9034324;12.4875263;0.8
+3031;Toy Room;Via degli Avignonesi, 73, 00187 Roma RM;Rome;Italy;Dance club;41.9032578;12.4884264;0.8
+3032;The Sanctuary Eco Retreat/Voodoo Bar;Via delle Terme di Traiano, 4A, 00184 Roma RM;Rome;Italy;Dance club;41.892683;12.4984127;0.6
+3033;Spazio Novecento;Via Chopin, 12, 00144 Roma RM;Rome;Italy;Dance club;41.8348906;12.4679361;0.1
+3034;Goa;Via Giuseppe Libetta, 13, 00154 Roma RM;Rome;Italy;Dance club;41.8636417;12.4809422;0.2
+3035;Notorious;Via di S. Nicola da Tolentino, 22, 00187 Roma RM;Rome;Italy;Dance club;41.9046307;12.4904166;0.8
+3036;Villa Borghese Gallery;Piazzale Scipione Borghese, 5, 00197 Roma RM;Rome;Italy;Museum;41.9141203;12.492061;1.0
+3037;Capitoline Museum;Piazza del Campidoglio, 1, 00186 Roma RM;Rome;Italy;Museum;41.8932408;12.482981487083691;0.9
+3038;Terme di Diocleziano;Viale Enrico de Nicola, 78, 00185 Roma RM;Rome;Italy;Museum;41.9029589;12.5001508;0.6
+3039;Museum of Roman Civilization;Via Laurentina, 470, 00142 Roma RM;Rome;Italy;Museum;41.8305406;12.4799565;0.6
+3040;National Etruscan Museum;Piazzale di Villa Giulia 9, 00196 Roma RM;Rome;Italy;Museum;41.91803715;12.477741123649153;0.6
+3041;MAXXI Museum;Via Guido Reni, 4a, 00196 Roma RM;Rome;Italy;Museum;41.9281937;12.4670608;0.5
+3042;Villa Farnesina;Via della Lungara, 230, 00165 Roma RM;Rome;Italy;Museum;41.8936114;12.467320760394182;0.4
+3043;Vatican Museums;Viale Vaticano, 100, 00192 Roma RM;Rome;Italy;Museum;41.9070485;12.4533278;3.0
+3044;Palazzo Barberini;Via delle Quattro Fontane, 13, 00184 Roma RM;Rome;Italy;Museum;41.9033252;12.4898746;0.5
+3045;Villa Borghese;Piazzale Napoleone I, 00197 Roma RM;Rome;Italy;Park;41.9116167;12.4783892;0.9
+3047;Pincio Hill Gardens;Viale Gabriele D'Annunzio, 00187 Roma RM;Rome;Italy;Park;41.9106821;12.4780963;0.4
+3048;The Botanical Garden;Largo Cristina di Svezia, 24, 00165 Roma RM;Rome;Italy;Park;41.8928496;12.4648646;0.7
+3049;Villa Celimontana;Via della Navicella, 12, 00184 Roma RM;Rome;Italy;Park;41.8844522;12.4957354;0.5
+3050;Roseto Comunale;Via di Valle Murcia, 6, 00153 Roma RM;Rome;Italy;Park;41.88489115;12.483398287203112;0.5
+3051;Villa Torlonia;Via Nomentana, 70, 00161 Roma RM;Rome;Italy;Park;41.914768300000006;12.5113208693951;0.4
+3052;Via Appia Antica;Via Appia Antica, 42, 00178 Roma RM;Rome;Italy;Park;41.8567297;12.5294367;0.1
+3053;Villa Ada;Via Salaria, 267, 273/275 Roma RM;Rome;Italy;Park;41.9128258;12.4977153;0.4
+3054;Orange Garden;Piazza Pietro D'Illiria, 00153 Roma RM;Rome;Italy;Park;41.8841271;12.4800346;0.7
+3055;Parco degli Acquedotti;Via Lemonia, 221, 00174 Roma RM;Rome;Italy;Park;41.8522287;12.5592916;0.2
+3056;Trattoria Vechia Roma;Via Ferruccio, 12/b/c, 00185 Roma RM;Rome;Italy;Restaurant;41.8930143;12.5035046;0.6
+3057;Ristorante Strega;Piazza del Viminale, 27/31, 00184 Roma RM;Rome;Italy;Restaurant;41.8996624;12.494014607029778;0.5
+3058;La Scalinata;Via di Sant'Andrea delle Fratte, 32, 00187 Roma RM;Rome;Italy;Restaurant;41.9032414;12.4832215;0.7
+3059;Pane e Salame;Vicolo delle Bollette, 13, 00187 Roma RM;Rome;Italy;Restaurant;41.9006736;12.4821146;0.6
+3060;Ristorante Carlo Menta;Via della Lungaretta, 101, 00153 Roma RM;Rome;Italy;Restaurant;41.8896524;12.472809;0.7
+3061;Alle Fratte di Trastevere;Via delle Fratte di Trastevere, 49/50, 00154 Roma RM;Rome;Italy;Restaurant;41.8878386;12.4728355;0.7
+3062;Pastasciutta;Via delle Grazie, 5, 00193 Roma RM;Rome;Italy;Restaurant;41.9046605;12.4580774;1.0
+3063;Felice e Testaccio;Via Mastro Giorgio, 29, 00153 Roma RM;Rome;Italy;Restaurant;41.8785014;12.4774658;0.4
+3064;Trattoria Monti;Via di S. Vito, 13, 00185 Roma RM;Rome;Italy;Restaurant;41.8956653;12.5020756;0.7
+3065;Ristorante Il Papalino;Borgo Pio, 172/173, 00193 Roma RM;Rome;Italy;Restaurant;41.9039516;12.4578186;0.7
+3066;Taverna Giulia Ristorante;Vicolo dell'Oro, 23, 00186 Roma RM;Rome;Italy;Restaurant;41.8997916;12.4654127;0.6
+3067;Da Francesco Ristorante;Piazza del Fico, 29, 00186 Roma RM;Rome;Italy;Restaurant;41.8993181;12.4704034;0.6
+3068;Tazza d'Oro;Via Appia Nuova, 231, 00183 Roma RM;Rome;Italy;Restaurant;41.8801547;12.5159458;0.4
+3069;Pane pane vino ar vino;Via del Gesù, 84, 00186 Roma RM;Rome;Italy;Restaurant;41.8970078;12.4786735;0.5
+3070;Pizzeria da Remo;Piazza di S Maria Liberatrice, 44, 00153 Roma RM;Rome;Italy;Restaurant;41.88092665;12.475348231510852;0.6
+3071;Trapizzino Testaccio;Via Giovanni Branca, 88, 00153 Roma RM;Rome;Italy;Restaurant;41.8797016;12.4737757;0.4
+3072;Palatine Hill;Via di San Gregorio, 30, 00186 Roma RM;Rome;Italy;Ruins;41.887807;12.4897319;3.0
+3073;Roman Forum;Clivo Argentario, 1, 00186 Roma RM;Rome;Italy;Ruins;41.8931388;12.4846519;3.0
+3074;Baths of Caracalla;Viale delle Terme di Caracalla, 00153 Roma RM;Rome;Italy;Ruins;41.8832997;12.4905134;0.7
+3075;Piazza di Spagna;Piazza di Spagna, 00187 Roma RM;Rome;Italy;Square;41.9048886;12.4831292;1.0
+3076;Piazza Navona;Piazza Navona, 00186 Roma RM;Rome;Italy;Square;41.8989155;12.473118536497108;1.5
+3077;Piazza del Popolo;Piazza del Popolo, 00187 Roma RM;Rome;Italy;Square;41.9106283;12.4772704;1.5
+3078;Piazza Santa Maria in Trastevere;Fontana di Santa Maria in, Piazza di Santa Maria in Trastevere, 00153 Roma RM;Rome;Italy;Square;41.8895013;12.4702907;0.9
+3079;Piazza della bocca della verita;Piazza della Bocca della Verità, 18, 00186 Roma RM;Rome;Italy;Square;41.8891039;12.4816687;0.9
+3080;Piazza Colonna;P.za Colonna, 00187 Roma RM;Rome;Italy;Square;41.900833500000005;12.47996251857831;0.6
+3081;Piazza della Rotonda;Piazza della Rotonda, 00186 Roma RM;Rome;Italy;Square;41.8994966;12.4764863;0.9
+3082;Piazza Venezia;Piazza Venezia, Roma RM;Rome;Italy;Square;41.8955257;12.4824151;3.0
+3083;Piazza Mattei;Piazza Mattei, 00186 Roma RM;Rome;Italy;Square;41.8939028;12.4774063;0.6
+3084;Termini Station;Piazza dei Cinquecento, 1, 00185 Roma RM;Rome;Italy;Subway station;41.9012587;12.5008444;3.0
+3085;Barberini Station;Barberini, Roma RM;Rome;Italy;Subway station;41.903837;12.488764;0.9
+3086;Vittorio Emanuele Station;Vittorio Emanuele, Roma RM;Rome;Italy;Subway station;41.8948835;12.5044677;3.0
+3087;Castro Pretorio Station;Castro Pretorio, Roma RM;Rome;Italy;Subway station;41.9036402;12.499999291481538;0.7
+3088;Policlinico Station;Policlinico, Roma RM;Rome;Italy;Subway station;41.9086625;12.5121218;0.9
+3089;Colosseo Station;Piazza del Colosseo, 00184 Roma RM;Rome;Italy;Subway station;41.8906778;12.4944558;3.0
+3090;Cavour Station;Via Urbana, 72, 00184 Roma RM;Rome;Italy;Subway station;41.8949856;12.4929144;0.6
+3091;Repubblica Station;P.za della Repubblica, 00185 Roma RM;Rome;Italy;Subway station;41.9026069;12.4967408;0.7
+3092;Piramide Station;Piramide, Roma RM;Rome;Italy;Subway station;41.8748781;12.4824824;0.7
+3093;Valle Aurelia Station;Valle Aurelia, 00136 Roma RM;Rome;Italy;Subway station;41.9098154;12.4352731;0.6
+3094;Lepanto Station;Lepanto, Roma RM;Rome;Italy;Subway station;41.9113558;12.4661658;0.6
+3095;Bologna Station;Bologna, Roma RM;Rome;Italy;Subway station;41.9136627;12.5208145;0.9
+3096;Tiburtina Station;Tiburtina, Roma RM;Rome;Italy;Subway station;41.9031671;12.5318959;1.5
+3097;Circo Massimo station Station;Circo Massimo, Roma RM;Rome;Italy;Subway station;41.886158449999996;12.485308709919227;0.9
+3098;Trastevere Railway;Roma Trastevere, Roma RM;Rome;Italy;Train Station;41.8721381;12.465075953686888;0.9
+3099;Saint Pietro Railway;Roma San Pietro, Roma RM;Rome;Italy;Train Station;41.8960663;12.4544652;0.6
+3100;Valle Aurelia Railway;Valle Aurelia, Roma RM;Rome;Italy;Train Station;41.9029987;12.4421536;0.4
