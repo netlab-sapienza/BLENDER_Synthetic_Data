@@ -50,5 +50,5 @@ BLENDER_Synthetic_Data
 ```
 
 ## Credits
-This project was developed by [Daniel Jimenez](https://github.com/damjimenezgu) (MSc. Data Science student) with the guidance and supervision of [Massimo Perri](https://github.com/mp-76) (MSC. Candidate). The whole project was supervised by the Prof. [Francesca Cuomo](https://francescacuomo.site.uniroma1.it/) from the Dipartimento di Ingegneria dell'Informazione, Elettronica e Telecomunicazioni in SAPIENZA Università di Roma.
+This project was developed by [Daniel Jimenez](https://github.com/damjimenezgu) (MSc. Data Science student) with the guidance and supervision of [Massimo Perri](https://github.com/mp-76) (MSC. Candidate). The whole BLENDER project was supervised by the Prof. [Francesca Cuomo](https://francescacuomo.site.uniroma1.it/) from the Dipartimento di Ingegneria dell'Informazione, Elettronica e Telecomunicazioni in SAPIENZA Università di Roma.
 
