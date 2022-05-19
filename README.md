@@ -1,3 +1,5 @@
+<img src="https://www.saperessere.com/wp-content/uploads/2013/08/logo-sapienza-new.jpg" width="300"/>
+
 # Synthetic Data for BLENDER project
 ## Description
 
