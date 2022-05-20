@@ -21,7 +21,7 @@ This repository contains the code, data and models employed when generating the 
 This project was done using a combination of Google Colab and Google Drive (to store the data). Then, if you want to replicate the results it is necessary to follow the next steps:
 
 1. Download the whole repository (from GitHub to your PC).
-2. Store (upload) the decompressed file downloaded in the desired (own) Google Drive folder.
+2. Store (upload) the uncompressed file downloaded in the desired (own) Google Drive folder.
 3. Open each one of the Notebooks stored in the `code` folder. They are named in the order of how they should be executed. Besides, each file contains explanations on how to use them.
 
 ## Directory explanation
